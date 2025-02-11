@@ -1,5 +1,5 @@
 # love-story-cyoa
 
 ## Pick a character for your fantasy romance
-* [boy](boy/outside.md)
-* [girl](girl/outside.md)
+* [Boy](boy/outside.md)
+* [Girl](girl/outside.md)
