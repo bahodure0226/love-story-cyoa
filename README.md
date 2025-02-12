@@ -5,7 +5,7 @@
 * [Girl](girl/outside.md)
 
 ## Plan Page:
-* [drawing/planning](https://docs.google.com/drawings/d/1jeURIc8PXyqWrlDLQh3qKAMRLSXfDDzcjXbT9qvCsBc/edit?usp=sharing)
+* [drawing/planning](img/cyoa-plan.png)
 ## Credits/Creators:
 * [Bahodur Ergashev](https://github.com/bahodure0226)
 * [Jehan Sayeed](https://github.com/jehans8543)
