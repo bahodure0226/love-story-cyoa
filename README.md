@@ -4,8 +4,8 @@
 * [Boy](boy/outside.md)
 * [Girl](girl/outside.md)
 
-## Credits
-## [drawing/planning](https://docs.google.com/drawings/d/1jeURIc8PXyqWrlDLQh3qKAMRLSXfDDzcjXbT9qvCsBc/edit?usp=sharing)
-## Creators:
+## Plan Page:
+* [drawing/planning](https://docs.google.com/drawings/d/1jeURIc8PXyqWrlDLQh3qKAMRLSXfDDzcjXbT9qvCsBc/edit?usp=sharing)
+## Credits/Creators:
 * [Bahodur Ergashev](https://github.com/bahodure0226)
 * [Jehan Sayeed](https://github.com/jehans8543)
